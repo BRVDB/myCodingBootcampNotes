@@ -44,4 +44,8 @@ Removes/Deletes a file
 
 Removes a directory
 
+git add .
+
+git commit -m" "
+
 "GitBash is UNIX"
