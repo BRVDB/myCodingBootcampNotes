@@ -44,6 +44,7 @@ Removes/Deletes a file
 
 Removes a directory
 
+<<<<<<< HEAD
 git add .
 
 git commit -m" "
@@ -76,3 +77,6 @@ git pull    - downloads the freshest version
 1. git add .
 2. git commit -m "message about what committing"
 3. git push
+=======
+"GitBash is UNIX"
+>>>>>>> 36b479c5db693a478893490a067debeff053cdf2
